@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  margin: 5px;
+  flex-direction: row;
+}
+
+.visualizacao-formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 70%;
+  margin: 5px;
+}
+
+.adicionar-componente {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30%;
+  margin: 5px
+}
+
+.componentes {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.previsualizacao {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 96%;
+  margin: 10px;
+}
